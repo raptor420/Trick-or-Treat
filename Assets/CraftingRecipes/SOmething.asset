@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d2de1a78cd961d46980ec1c8c9e54a5, type: 3}
+  m_Name: SOmething
+  m_EditorClassIdentifier: 
+  CouldronInv: {fileID: 0}
+  materials:
+  - Item: {fileID: 11400000, guid: 602f6e65d922306419e12abe119a7437, type: 2}
+    Amount: 1
+  - Item: {fileID: 11400000, guid: cd731ef945134234f962dbc2815a077a, type: 2}
+    Amount: 1
+  Results:
+  - Item: {fileID: 11400000, guid: 00b8148eb615a8d4e9790494f281b2b6, type: 2}
+    Amount: 1

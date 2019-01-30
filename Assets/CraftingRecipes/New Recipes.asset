@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d2de1a78cd961d46980ec1c8c9e54a5, type: 3}
+  m_Name: New Recipes
+  m_EditorClassIdentifier: 
+  CouldronInv: {fileID: 0}
+  materials:
+  - Item: {fileID: 11400000, guid: d996632be7af6f04cbb76ae816b92914, type: 2}
+    Amount: 1
+  - Item: {fileID: 11400000, guid: 6ec719348e9a56646ba9b2fea9dec3a2, type: 2}
+    Amount: 1
+  Results:
+  - Item: {fileID: 11400000, guid: 2c3e43ca85c873a468cfe692b112bc74, type: 2}
+    Amount: 1

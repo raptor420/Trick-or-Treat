@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d2de1a78cd961d46980ec1c8c9e54a5, type: 3}
+  m_Name: Fruit Icecream
+  m_EditorClassIdentifier: 
+  CouldronInv: {fileID: 0}
+  materials:
+  - Item: {fileID: 11400000, guid: afcf4139451340a4493991f45f66bc93, type: 2}
+    Amount: 1
+  - Item: {fileID: 11400000, guid: 44764df0b42f1f148925179ddab2aa2d, type: 2}
+    Amount: 1
+  Results:
+  - Item: {fileID: 11400000, guid: 69565bc18698c8d4c8e0307184442a85, type: 2}
+    Amount: 1
